@@ -6,4 +6,4 @@ pretty simple! just make sure you clone with --recurse-submodules and you'll be 
 
 currently I only have the server implemented; naturally a client may be coming in the future.
 
-requirement: [https://fmt.dev]({fmt})
+requirement: [{fmt}](https://fmt.dev)
