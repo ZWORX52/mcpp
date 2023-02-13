@@ -1,0 +1,21 @@
+[
+  {
+    "arguments": [
+      "/sbin/g++",
+      "-c",
+      "-O3",
+      "-DNDEBUG",
+      "-std=gnu++20",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Itomlplusplus/include",
+      "-o",
+      "mc",
+      "mc.cpp"
+    ],
+    "directory": "/home/zworx52/Projects/mc/mcpp",
+    "file": "/home/zworx52/Projects/mc/mcpp/mc.cpp",
+    "output": "/home/zworx52/Projects/mc/mcpp/mc"
+  }
+]
